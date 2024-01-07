@@ -979,6 +979,7 @@ article{
     margin-top: 25px;
     font-size: 15px;
     grid-template-rows: auto;
+    grid-template-columns:auto;
     gap: 0;
  }
  .child0{
