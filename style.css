@@ -990,11 +990,13 @@ article{
  .item{
     font-size: 15px;
  }
- .child3{
+  .child3{
     position: relative;
-    bottom: 28px;
+    display: grid;
+    grid-column: 2/4;
+    bottom: 30px;
     width: 95%;
-    height: 100%;
+    
  }
 
  .container2{
