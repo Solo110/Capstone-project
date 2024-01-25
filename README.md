@@ -1,2 +1,2 @@
-# Clapstone-project
+# Capstone-project
 Responsive website 
